@@ -1,0 +1,47 @@
+/*element.style {
+    background-image: url('butterfly.jpg');
+
+}*/
+.text-center {
+    text-align: center;
+}
+.navbar
+{
+    font-size: 1.3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar .container-fluid .navbar-nav .nav-link
+{
+    color: #263238;
+    padding: 5px 30px 5px 20px;
+}
+
+
+.navbar .collapse ul
+{
+    padding: 20px;
+
+}
+    #home
+{  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(31, 33, 36);
+    background-image: url('butterfly.jpg');
+    background-color: #232525;
+    background-blend-mode: difference;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    margin: 10px auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+}
+   
+#Contact_info
+{
+    background-color: wheat;
+}
